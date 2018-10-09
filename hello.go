@@ -3,5 +3,5 @@ package pkgfoo
 import "fmt"
 
 func Hello() {
-	fmt.Println("Helo")
+	fmt.Println("Hello")
 }
