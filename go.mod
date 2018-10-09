@@ -1,1 +1,1 @@
-module github.com/JustinSDK/pkgfoo
+module github.com/JustinSDK/pkgfoo/v2
